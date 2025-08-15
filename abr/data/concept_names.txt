@@ -1,0 +1,16 @@
+1. Volatile Network Throughput
+2. Rapidly Depleting Buffer
+3. Low Content Complexity
+4. Startup of video
+5. Extreme Network Degradation
+6. Moderate Network Throughput
+7. Stable Buffer
+8. High Content Complexity
+9. Recent Improvement in Network
+10. Switch to higher quality after startup
+11. Network Volatility needing Switching
+12. Avoiding Large Quality Fluctuations
+13. Anticipation of Network Congestion
+14. Nearly Full Buffer
+15. Content requiring High Quality
+16. High Network Throughput

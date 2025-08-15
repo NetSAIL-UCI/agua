@@ -1,0 +1,21 @@
+Explain the patterns in the state using the following key concepts for the environment of Adaptive Bitrate Streaming alongside common statistical metrics. Give an explanation for each takeaway.
+
+Here are the concepts:
+    {concepts}
+
+Here is the state to identify patterns for. Give your response as the answers to the following blanks.
+    State:
+        {state_data}
+
+    Explanation:
+        Network conditions: Initially starts off with (a/an) _____ pattern, as observed from the features _____. In the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, as evident from features _____. In the end, it exhibits (a/an) _____ to (a/an) _____ pattern, based on features _____. Overall, the trend is _____, indicating the presence of _____ conditions.
+        Viewer's video buffer: Initially starts off with (a/an) _____ pattern, as observed from the features _____. In the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, as evident from features _____. In the end, it exhibits (a/an) _____ to (a/an) _____ pattern, based on features _____. Overall, the trend is _____, indicating the presence of _____ conditions.
+        Viewer's Quality of Experience (environment reward or stalling behavior): Initially starts off with (a/an) _____ pattern, as observed from the features _____. In the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, as evident from features _____. In the end, it exhibits (a/an) _____ to (a/an) _____ pattern, based on features _____. Overall, the trend is _____, indicating the presence of _____ conditions.
+        Upcoming video sizes: Initially starts off with (a/an) _____ pattern, as observed from the features _____. In the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, as evident from features _____. In the end, it exhibits (a/an) _____ to (a/an) _____ pattern, based on features _____. Overall, the trend is _____, indicating the presence of _____ conditions.
+        Upcoming video qualities: Initially starts off with (a/an) _____ pattern, as observed from the features _____. In the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, as evident from features _____. In the end, it exhibits (a/an) _____ to (a/an) _____ pattern, based on features _____. Overall, the trend is _____, indicating the presence of _____ conditions.
+
+        Altogether, the patterns in the features indicate _____ network, _____ client video player, and _____ video stream patterns. 
+        
+        
+        This correlates with the key concept of _____, _____, _____, _____, and _____.
+

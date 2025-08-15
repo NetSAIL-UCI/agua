@@ -1,0 +1,18 @@
+Explain the patterns in the state using the following key concepts for the application of DDOS detection. Give an explanation for each takeaway.
+
+Here are the concepts:
+    {concepts}
+
+Here is the state to identify patterns for. Give your response as the answers to the following blanks.
+    State:
+        {state_data}
+
+    Explanation:
+        Traffic Volume: Initially starts off with (a/an) _____ pattern, as observed from the features _____. In the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, as evident from features _____. In the end, it exhibits (a/an) _____ to (a/an) _____ pattern, based on features _____. Overall, the trend is _____, indicating the presence of _____ conditions.
+        Types of requests: Initially starts off with (a/an) _____ pattern, as observed from the features _____. In the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, as evident from features _____. In the end, it exhibits (a/an) _____ to (a/an) _____ pattern, based on features _____. Overall, the trend is _____, indicating the presence of _____ conditions.
+        Resource and rate of connection: Initially starts off with (a/an) _____ pattern, as observed from the features _____. In the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, as evident from features _____. In the end, it exhibits (a/an) _____ to (a/an) _____ pattern, based on features _____. Overall, the trend is _____, indicating the presence of _____ conditions.
+        IP or request patterns: Initially starts off with (a/an) _____ pattern, as observed from the features _____. In the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, as evident from features _____. In the end, it exhibits (a/an) _____ to (a/an) _____ pattern, based on features _____. Overall, the trend is _____, indicating the presence of _____ conditions.
+
+        Overall, this state exhibits _____ patterns and has signs of _____.         
+        
+        This correlates with the key concept of _____, _____, _____, _____, and _____.

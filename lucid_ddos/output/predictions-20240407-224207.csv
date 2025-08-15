@@ -1,0 +1,2 @@
+Model,Time,Packets,Samples,DDOS%,Accuracy,F1Score,TPR,FPR,TNR,FNR,Source
+DOS2019-LUCID,0.003,1892,453,0.589,0.9934,0.9944,0.9925,0.0054,0.9946,0.0075,10t-10n-DOS2019-dataset-test.hdf5

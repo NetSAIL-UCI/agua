@@ -1,0 +1,8 @@
+1. Increasing Packet Loss: An increasing number of bytes lost in transit, often associated with the sending rate exceeding the current link capacity.
+    2. Decreasing Packet Loss: A decreasing trend in the number of bytes lost, signaling that network congestion is improving.
+    3. Stable Network Conditions: Stability in network traffic, marked by consistent receiving rates, latency, and loss.
+    4. Rapidly Increasing Latency: A sudden rise in latency to the client, signaling queue buildup in the network just before the onset of packet loss.
+    5. Rapidly Decreasing Latency: A decrease in latency to the client, indicating that queues are being drained and network congestion is clearing.
+    6. Volatile Network Conditions: Fluctuations in key network metrics such as loss or latency, signaling changing network traffic.
+    7. Low Network Utilization: Evidence of the controller underutilizing the available bandwidth, often indicated by a lack of congestion signals and a low sending rate.
+    8. High Network Utilization: The sending rate closely matches the network capacity, leading to early signs of congestion such as increased latency or packet loss due to queue buildup.

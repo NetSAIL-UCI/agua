@@ -1,0 +1,8 @@
+torch; python_version=="3.11"
+openai
+pandas==1.5.3
+numpy==1.26.4
+pydotenv
+trustee
+h5py
+pyshark

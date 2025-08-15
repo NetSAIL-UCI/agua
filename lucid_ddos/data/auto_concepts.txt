@@ -1,0 +1,10 @@
+1. Geographical and Temporal Consistency: Checking for consistency in traffic origins and access times. Legitimate traffic often follows predictable patterns related to the geographic location of users and the times when they are active.
+    2. Typical Application Behavior: Understanding how applications are typically used, including request patterns and user interactions. Traffic that deviates significantly from these patterns without a clear reason may warrant investigation.
+    3. Protocol Compliance: Ensuring that traffic follows expected protocol behaviors. Many DDoS attacks exploit or violate protocol standards, so traffic that adheres to these standards is less likely to be malicious.
+    4. High Request Rates: A high rate of requests over a short period, especially if concentrated on specific targets within the network, often signifies an attempt to overwhelm resources.
+    5. Geographic Irregularities: Traffic originating disproportionately from certain locations, especially regions not typically associated with the normal user base, may suggest a coordinated attack.
+    6. Protocol Anomalies: Traffic that does not adhere to expected protocol patterns, including malformed packets or unusual TCP/UDP request ratios, can indicate malicious activity.
+    7. Repeated Access Requests: Repeated requests for the same resource or endpoint within a short timeframe, particularly if they result in errors or failed attempts, might be part of an attack.
+    8. Behavioral Anomalies: Patterns that do not match the expected behavior of legitimate users or systems, such as navigating a website in a way that no normal user would, can signal an attack.
+    9. Payload Anomalies: Unexpected or malicious payload in network packets, designed to exploit vulnerabilities or cause disruptions, can be part of a DDoS strategy.
+    10. Low-and-Slow Attack Indicators: Unlike volumetric attacks, some DDoS attacks aim to exhaust resources slowly over time. Detecting these requires monitoring for slow, persistent traffic that is abnormal but might not immediately stand out.

@@ -1,0 +1,2 @@
+Model,Samples,Accuracy,F1Score,Hyper-parameters,Validation Set
+DOS2019-LUCID,418,0.9976,0.9977,,./sample-dataset/10t-10n-DOS2019-dataset-val.hdf5

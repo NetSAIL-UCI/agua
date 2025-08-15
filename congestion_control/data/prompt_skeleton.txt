@@ -1,0 +1,17 @@
+Explain the patterns in the state using the following key concepts for the environment of congestion control, alongside common statistical metrics about central tendency, dispersion, and distribution shape. Provide a comprehensive explanation for each takeaway with reasoning.
+
+Here are the concepts:
+    {concepts}
+
+Here is the state to identify patterns for. Give your response as the answers to the following blanks. 
+    State:
+        {state_data}
+
+    Explanation:
+        Loss ratio (bytes lost / bytes sent): Initially starts off with (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Then, it in the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Finally, in the end, it exhibits (a/an) _____ to (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Overall, the trend of this feature is _____, indicating the presence of _____ network conditions.
+        Latency ratio (average latency / minimum latency): Initially starts off with (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Then, it in the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Finally, in the end, it exhibits (a/an) _____ to (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Overall, the trend of this feature is _____, indicating the presence of _____ network conditions.
+        Send ratio (sending rate / receiving rate): Initially starts off with (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Then, it in the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Finally, in the end, it exhibits (a/an) _____ to (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Overall, the trend of this feature is _____, indicating the presence of _____ network conditions.
+        Sent Latency Increase ((latency of later half - latency of first half) / sending duration): Initially starts off with (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Then, it in the middle, it exhibits (a/an) _____ to (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Finally, in the end, it exhibits (a/an) _____ to (a/an) _____ pattern, with (a/an) _____ mean and _____ variance, as observed from the values at index _____ through index _____. Overall, the trend of this feature is _____, indicating the presence of _____ network conditions.
+
+        Combined Analysis: Altogether, the patterns in the features indicate _____ network conditions. `
+        This correlates with the key concepts of _____, as evidenced by _____.
