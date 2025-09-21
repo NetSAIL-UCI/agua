@@ -181,6 +181,8 @@ python train_trustee.py
 ```
 Outputs go to `data/trustee_report/` and a log file (e.g. `trustee_train_log.txt`). The report includes pruned and full-depth trees plus performance metrics (classification report).
 
+Trustee is provided through the [TrusteeML library](https://trusteeml.github.io/index.html), introduced in the paper linked [in their documentation](https://trusteeml.github.io/index.html#citing-us). Follow that page for installation directions; they may include installing Graphviz (e.g. `sudo apt-get install graphviz`) to render trust reports. If you encounter issues with Trustee, please open an issue on their GitHub project: https://github.com/TrusteeML/trustee.
+
 ### Run Robustness Experiments
 Robustness evaluates stability of the LLM and Agua's data:
 #### **This experiment uses ~US$10-20 in API credits**
@@ -231,4 +233,3 @@ If you use Agua in academic work, please add an appropriate citation (placeholde
 ---
 ## Acknowledgments
 This framework builds on open-source tooling for LLM embeddings, PyTorch modeling, and decision tree surrogate analysis. It does not provide any gaurantees on the explanations or code generated.
-

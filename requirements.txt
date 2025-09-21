@@ -1,8 +1,9 @@
-torch; python_version=="3.11"
+torch
 openai
 pandas==1.5.3
 numpy==1.26.4
-pydotenv
+python-dotenv
 trustee
 h5py
 pyshark
+seaborn; python_version >= '3.11'
