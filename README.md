@@ -115,7 +115,7 @@ The scripts load it automatically (see `load_dotenv` call in each domain's `glob
 ### 2. Delete Included Text & Embeddings
 #### **Deleting this data to regenerate it requires ~US$100-150 in API credits. Skip this step to test code with included data**
 
-Remove the following directories to force regeneration:
+Remove the following to force regeneration:
 * ABR / Congestion: `data/state_descriptions`, `data/state_embeddings`
 * Lucid DDoS: `data/input_descriptions`, `data/input_embeddings`
 * `data/embed_projection.pt` `data/final_projection.pt`
@@ -140,10 +140,6 @@ From the domain directory:
 ```bash
 python embed_data.py --save_concept_embeddings
 python embed_data.py --save_sample_embeddings
-```
-Optionally filter near-duplicate concepts (threshold set in `global_constants.py`):
-```bash
-python embed_data.py --filter_saved_concepts
 ```
 
 ### 5. Train Mapping Functions (Explainer Stages)
